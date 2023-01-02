@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.e68546b0.js";const i=JSON.parse('{"title":"vue2\u4EBA\u8D44\u9879\u76EE","description":"","frontmatter":{},"headers":[],"relativePath":"zh/web/web15.md"}'),p={name:"zh/web/web15.md"},o=l("",43),e=[o];function c(t,r,D,C,y,A){return a(),n("div",null,e)}var u=s(p,[["render",c]]);export{i as __pageData,u as default};
